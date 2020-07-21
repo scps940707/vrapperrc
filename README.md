@@ -1,5 +1,5 @@
 # vrapperrc
-Vrapper configuration file
+[Vrapper](http://vrapper.sourceforge.net/home/) configuration file
 
 ---
 
