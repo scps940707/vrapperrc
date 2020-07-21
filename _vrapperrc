@@ -1,0 +1,12 @@
+" Vrapper — Vim-like editing in Eclipse
+" To change the default configuration, the plugin checks for a file called .vrapperrc (or _vrapperrc to make it easier for Windows people).
+" This file is expected to be in the user's HOME directory.
+
+
+:set scrolloff=10
+
+" Move the line up/down
+:nmap <A-J> ddp
+:nmap <A-K> ddkP
+
+" Cut/copy/paste from system clipboard
